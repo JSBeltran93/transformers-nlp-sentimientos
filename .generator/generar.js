@@ -172,7 +172,7 @@ children.push(
 
 children.push(heading("Mapa mental"));
 children.push(p("A continuación se presenta el mapa mental con los conceptos principales de los Transformers, su relación y su organización jerárquica.", { indent: true, after: 100 }));
-children.push(...figureParagraph(`${IMG_DIR}/mapa_mental.png`, 600, "Figura 1. Mapa mental — Transformers: mecanismo de atención, estructura encoder-decoder, representación de entrada, modelos conocidos y aplicaciones en NLP."));
+children.push(...figureParagraph(`${IMG_DIR}/mapa_mental.png`, 500, "Figura 1. Mapa mental — Transformers: mecanismo de atención, estructura encoder-decoder, representación de entrada, modelos conocidos y aplicaciones en NLP."));
 
 children.push(heading("Conclusiones"));
 
